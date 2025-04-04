@@ -17,7 +17,7 @@
    
 3. Запустите проект:
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
    
 4. API будет доступен по адресу http://localhost:8000. Swager: /docs
