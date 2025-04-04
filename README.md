@@ -11,7 +11,7 @@
 2. Склонируйте репозиторий:
 
    ```bash
-   git clone https://your-repo-url.git
+   git clone https://github.com/Nikita-Savelev/didenok_test
    cd didenok_test
    ```
    
